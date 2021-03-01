@@ -1,0 +1,19 @@
+Item Report
+-----------
+
+           Name          Price       Quantity    DiscountPct
+           ----          -----        -------    -----------
+           Soda           1.50           4.00           0.10
+          Apple           0.75           3.00           0.00
+       Sandwich           6.50           2.00           0.25
+        Brownie           3.50           1.00           0.10
+
+
+Average Price: 3.06
+Total Quantity: 10
+
+Max Price Item Name:Sandwich
+Max Price Amount: 6.50
+
+Min Price Item Name: Apple
+Min Price Amount: 0.75

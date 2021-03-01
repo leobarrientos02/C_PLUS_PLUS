@@ -1,0 +1,5 @@
+﻿  main.cpp
+  MyFunctions.cpp
+C:\Users\leoba\Desktop\CODING\C++ V2\HomeWork2\MyFunctions.cpp(101,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  HomeWork2.vcxproj -> C:\Users\leoba\Desktop\CODING\C++ V2\HomeWork2\Debug\HomeWork2.exe
