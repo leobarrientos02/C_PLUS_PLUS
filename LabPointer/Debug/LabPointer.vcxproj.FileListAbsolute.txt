@@ -1,0 +1,2 @@
+C:\Users\leoba\Desktop\CODING\C++ V2\LabPointer\Debug\LabPointer.exe
+C:\Users\leoba\Desktop\CODING\C++ V2\LabPointer\Debug\LabPointer.pdb

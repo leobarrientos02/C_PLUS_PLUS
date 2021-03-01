@@ -1,0 +1,2 @@
+C:\Users\leoba\Desktop\CODING\C++ V2\MovieLab\Debug\MovieLab.exe
+C:\Users\leoba\Desktop\CODING\C++ V2\MovieLab\Debug\MovieLab.pdb

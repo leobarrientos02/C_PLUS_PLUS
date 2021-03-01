@@ -1,0 +1,3 @@
+﻿  FindMyFunctions.cpp
+main.obj : error LNK2019: unresolved external symbol "int __cdecl FindIndexofValues(double * const,int)" (?FindIndexofValues@@YAHQANH@Z) referenced in function _main
+C:\Users\leoba\Desktop\CODING\C++ V2\Lab3\Debug\Lab3.exe : fatal error LNK1120: 1 unresolved externals

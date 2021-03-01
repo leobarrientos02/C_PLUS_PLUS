@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\leoba\Desktop\CODING\C++ V2\LabPointer\main.cpp(26,13): warning C4101: 'teamSize': unreferenced local variable
+  LabPointer.vcxproj -> C:\Users\leoba\Desktop\CODING\C++ V2\LabPointer\Debug\LabPointer.exe
