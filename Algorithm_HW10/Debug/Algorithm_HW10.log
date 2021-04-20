@@ -1,0 +1,4 @@
+﻿  Algorithm_HW10.cpp
+C:\xampp\htdocs\C_PLUS_PLUS\Algorithm_HW10\Algorithm_HW10.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+C:\xampp\htdocs\C_PLUS_PLUS\Algorithm_HW10\Algorithm_HW10.cpp(59): warning C4715: 'findChar': not all control paths return a value
+  Algorithm_HW10.vcxproj -> C:\xampp\htdocs\C_PLUS_PLUS\Algorithm_HW10\Debug\Algorithm_HW10.exe
